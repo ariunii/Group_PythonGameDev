@@ -139,3 +139,5 @@ while True:
 
     if player["hp"] <= 0: #outer loop checker
         break
+
+#added stuff
